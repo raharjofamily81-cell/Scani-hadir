@@ -1,0 +1,7 @@
+{
+  "name": "APK Sekolah digital",
+  "description": "A sophisticated student attendance application featuring QR code scanning, real-time logging, and instant WhatsApp reporting integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
